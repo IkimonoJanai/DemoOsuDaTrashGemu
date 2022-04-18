@@ -21,7 +21,7 @@ namespace DemoOsuDaTrashGemu
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hola get right witcha");
+            MessageBox.Show("Đây la nhánh");
         }
 
         private void timer1_Tick(object sender, EventArgs e)
