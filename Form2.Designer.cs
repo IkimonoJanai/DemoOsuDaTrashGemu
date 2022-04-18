@@ -58,7 +58,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(551, 144);
             this.label1.TabIndex = 1;
-            this.label1.Text = "abcabcabcabcabcabc";
+            this.label1.Text = "aaaaaaaaaaabbbbbccccc";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // timer1
